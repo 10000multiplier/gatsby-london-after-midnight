@@ -60,7 +60,7 @@ body {
 }
 
 .page-head {
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -197,8 +197,8 @@ body {
   color: var(--color-base);
   font-size: 2.1rem;
   line-height: 1em;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: bolder;
+  text-transform: lowercase;
   letter-spacing: 1px;
 }
 
